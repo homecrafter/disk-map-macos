@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · **简体中文** · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-![应用图标](../assets/AppIcon.png)
+<img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map** 是一款免费的原生 macOS 应用，可直观显示 Mac 的存储空间被哪些文件占用。
 
@@ -24,7 +24,7 @@
 
 ## 下载与安装
 
-打开 **Releases**，下载 `Карта диска-1.9.dmg`。需要 macOS 13 或更高版本，支持 Apple 芯片和 Intel Mac。
+打开 **Releases**，下载 `Disk-Map-1.9-macOS.dmg`。需要 macOS 13 或更高版本，支持 Apple 芯片和 Intel Mac。
 
 打开 DMG，然后将应用拖到“应用程序”文件夹。应用目前尚未经过 Apple 公证。如果 macOS 阻止首次启动，请打开 **系统设置 → 隐私与安全性**，点按 **仍要打开** 并确认。[Apple 说明](https://support.apple.com/102445)。
 

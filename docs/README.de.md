@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · **Deutsch** · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-![App-Symbol](../assets/AppIcon.png)
+<img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map** ist ein kostenloses, natives macOS-Programm, das übersichtlich zeigt, was Speicherplatz auf Ihrem Mac belegt.
 
@@ -24,7 +24,7 @@ Die gesamte Analyse erfolgt lokal auf Ihrem Mac. Dateiinformationen werden nicht
 
 ## Download und Installation
 
-Öffnen Sie **Releases** und laden Sie `Карта диска-1.9.dmg` herunter. Erforderlich ist macOS 13 oder neuer; Apple Silicon und Intel werden unterstützt.
+Öffnen Sie **Releases** und laden Sie `Disk-Map-1.9-macOS.dmg` herunter. Erforderlich ist macOS 13 oder neuer; Apple Silicon und Intel werden unterstützt.
 
 Öffnen Sie die DMG-Datei und ziehen Sie die App in den Ordner „Programme“. Die App ist noch nicht von Apple notarisiert. Falls macOS den ersten Start blockiert, öffnen Sie **Systemeinstellungen → Datenschutz & Sicherheit**, klicken Sie auf **Dennoch öffnen** und bestätigen Sie den Start. [Apple-Anleitung](https://support.apple.com/102445).
 

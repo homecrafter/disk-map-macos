@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · **Türkçe** · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-![Uygulama simgesi](../assets/AppIcon.png)
+<img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map**, Mac’inizde hangi dosyaların yer kapladığını açıkça gösteren ücretsiz ve yerel bir macOS uygulamasıdır.
 
@@ -24,7 +24,7 @@ Tüm analiz Mac’inizde yerel olarak yapılır. Dosya bilgileri hiçbir yere g�
 
 ## İndirme ve kurulum
 
-**Releases** bölümünü açın ve `Карта диска-1.9.dmg` dosyasını indirin. macOS 13 veya daha yenisi gerekir; Apple Silicon ve Intel Mac’ler desteklenir.
+**Releases** bölümünü açın ve `Disk-Map-1.9-macOS.dmg` dosyasını indirin. macOS 13 veya daha yenisi gerekir; Apple Silicon ve Intel Mac’ler desteklenir.
 
 DMG dosyasını açıp uygulamayı Uygulamalar klasörüne sürükleyin. Uygulama henüz Apple tarafından noter onayından geçirilmemiştir. macOS ilk açılışı engellerse **Sistem Ayarları → Gizlilik ve Güvenlik** bölümünü açın, **Yine de Aç** düğmesine basın ve onaylayın. [Apple yönergeleri](https://support.apple.com/102445).
 

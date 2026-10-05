@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · **日本語** · [한국어](README.ko.md)
 
-![アプリアイコン](../assets/AppIcon.png)
+<img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map** は、Mac のストレージを何が使用しているかを分かりやすく表示する、無料のネイティブ macOS アプリです。
 
@@ -24,7 +24,7 @@
 
 ## ダウンロードとインストール
 
-**Releases** を開き、`Карта диска-1.9.dmg` をダウンロードしてください。macOS 13 以降が必要で、Apple シリコンと Intel Mac の両方に対応しています。
+**Releases** を開き、`Disk-Map-1.9-macOS.dmg` をダウンロードしてください。macOS 13 以降が必要で、Apple シリコンと Intel Mac の両方に対応しています。
 
 DMG を開き、アプリを「アプリケーション」フォルダへドラッグします。このアプリはまだ Apple の公証を受けていません。macOS が初回起動をブロックした場合は、**システム設定 → プライバシーとセキュリティ**を開き、**このまま開く**をクリックして確認してください。[Apple の説明](https://support.apple.com/102445)。
 

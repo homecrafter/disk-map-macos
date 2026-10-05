@@ -2,7 +2,7 @@
 
 [English](../README.md) · **Русский** · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-![Значок приложения](../assets/AppIcon.png)
+<img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Карта диска** — бесплатное нативное приложение для macOS, которое наглядно показывает, чем занято место на Mac.
 
@@ -24,7 +24,7 @@
 
 ## Загрузка и установка
 
-Откройте раздел **Releases** и скачайте `Карта диска-1.9.dmg`. Требуется macOS 13 или новее; поддерживаются Mac с Apple Silicon и Intel.
+Откройте раздел **Releases** и скачайте `Disk-Map-1.9-macOS.dmg`. Требуется macOS 13 или новее; поддерживаются Mac с Apple Silicon и Intel.
 
 Откройте DMG и перетащите приложение в папку «Программы». Приложение пока не нотарифицировано Apple. Если macOS заблокирует первый запуск, откройте **Системные настройки → Конфиденциальность и безопасность**, нажмите **Всё равно открыть** и подтвердите запуск. [Инструкция Apple](https://support.apple.com/102445).
 
