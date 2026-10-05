@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feedback, questions, and ideas
+    url: https://github.com/homecrafter/disk-map-macos/discussions
+    about: Use GitHub Discussions for feedback, questions, and feature ideas.

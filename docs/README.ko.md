@@ -4,6 +4,8 @@
 
 [**⬇️ macOS용 Disk Map 1.9 다운로드**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
 
+[💬 의견 및 질문](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 버그 신고](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
+
 <img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map**은 Mac의 저장 공간을 어떤 파일이 사용하고 있는지 보기 쉽게 보여 주는 무료 네이티브 macOS 앱입니다.

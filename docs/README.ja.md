@@ -4,6 +4,8 @@
 
 [**⬇️ macOS 用 Disk Map 1.9 をダウンロード**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
 
+[💬 フィードバックと質問](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 不具合を報告](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
+
 <img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map** は、Mac のストレージを何が使用しているかを分かりやすく表示する、無料のネイティブ macOS アプリです。

@@ -4,6 +4,8 @@
 
 [**⬇️ macOS için Disk Map 1.9’u indir**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
 
+[💬 Geri bildirim ve sorular](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 Hata bildir](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
+
 <img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map**, Mac’inizde hangi dosyaların yer kapladığını açıkça gösteren ücretsiz ve yerel bir macOS uygulamasıdır.

@@ -1,0 +1,68 @@
+name: Bug report
+description: Report a problem with Disk Map. You may write in any language.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve Disk Map. Please do not include private file names, passwords, or other sensitive information.
+
+  - type: input
+    id: app-version
+    attributes:
+      label: Disk Map version
+      description: Open “About Disk Map” to find the version and build number.
+      placeholder: "1.9 (build 12)"
+    validations:
+      required: true
+
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      placeholder: "macOS 26.0"
+    validations:
+      required: true
+
+  - type: input
+    id: mac-model
+    attributes:
+      label: Mac model
+      placeholder: "Mac mini with Apple silicon / Intel MacBook Pro"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open…
+        2. Select…
+        3. See the error…
+    validations:
+      required: true
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or additional information
+      description: Remove private paths and file names before attaching a screenshot.
+
+  - type: checkboxes
+    id: latest-version
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked that I am using the latest available version of Disk Map.
+          required: true

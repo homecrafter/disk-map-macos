@@ -4,6 +4,8 @@
 
 [**⬇️ Скачать Disk Map 1.9 для macOS**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
 
+[💬 Отзывы и вопросы](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 Сообщить об ошибке](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
+
 <img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Карта диска** — бесплатное нативное приложение для macOS, которое наглядно показывает, чем занято место на Mac.

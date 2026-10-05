@@ -4,6 +4,8 @@
 
 [**⬇️ 下载 macOS 版 Disk Map 1.9**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
 
+[💬 反馈与问题](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 报告错误](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
+
 <img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map** 是一款免费的原生 macOS 应用，可直观显示 Mac 的存储空间被哪些文件占用。

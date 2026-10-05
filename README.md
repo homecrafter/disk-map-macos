@@ -4,6 +4,8 @@
 
 [**⬇️ Download Disk Map 1.9 for macOS**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
 
+[💬 Feedback and questions](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 Report a bug](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
+
 <img src="assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
 **Disk Map** is a free native macOS utility that shows what is taking up space on your Mac.
