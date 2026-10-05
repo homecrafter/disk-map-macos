@@ -14,7 +14,7 @@
 
 ## Скриншоты
 
-<p align="center"><img src="../screenshots/disk-map-overview-ru.png" alt="Disk Map storage overview" width="920"></p>
+<p align="center"><img src="../screenshots/disk-map-overview.png" alt="Disk Map storage overview" width="920"></p>
 
 <p align="center">
   <img src="../screenshots/language-menu.png" alt="Disk Map language menu" width="430">
