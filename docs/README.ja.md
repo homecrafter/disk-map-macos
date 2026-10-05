@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · **日本語** · [한국어](README.ko.md)
 
-[**⬇️ macOS 用 Disk Map 1.9 をダウンロード**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
+[**⬇️ macOS 用 Disk Map 1.10 をダウンロード**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.10/Disk-Map-1.10-macOS.dmg)
 
 [💬 フィードバックと質問](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 不具合を報告](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
 
@@ -10,7 +10,7 @@
 
 **Disk Map** は、Mac のストレージを何が使用しているかを分かりやすく表示する、無料のネイティブ macOS アプリです。
 
-開発者：**Andrey Minenkov**。現在のバージョン：**1.9（ビルド 12）**。
+開発者：**Andrey Minenkov**。現在のバージョン：**1.10（ビルド 13）**。
 
 ## スクリーンショット
 
@@ -37,13 +37,13 @@
 
 ## ダウンロードとインストール
 
-**Releases** を開き、`Disk-Map-1.9-macOS.dmg` をダウンロードしてください。macOS 13 以降が必要で、Apple シリコンと Intel Mac の両方に対応しています。
+**Releases** を開き、`Disk-Map-1.10-macOS.dmg` をダウンロードしてください。macOS 13 以降が必要で、Apple シリコンと Intel Mac の両方に対応しています。
 
 DMG を開き、アプリを「アプリケーション」フォルダへドラッグします。このアプリはまだ Apple の公証を受けていません。macOS が初回起動をブロックした場合は、**システム設定 → プライバシーとセキュリティ**を開き、**このまま開く**をクリックして確認してください。[Apple の説明](https://support.apple.com/102445)。
 
 フルディスクアクセスは、保護されたフォルダを詳細スキャンする場合にのみ必要です。
 
-SHA-256：`9c1dc8443ab0cea84a715cd27bcf85e60cd6eaee397936af2794f612c2443933`
+SHA-256：`12810677250d21687b527b5fdd10abf49fc27356d8b41078de5448bba70e7e90`
 
 アプリは無料で利用できます。このリポジトリではソースコードを公開していません。
 

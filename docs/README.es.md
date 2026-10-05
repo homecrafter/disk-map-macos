@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · **Español** · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-[**⬇️ Descargar Disk Map 1.9 para macOS**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
+[**⬇️ Descargar Disk Map 1.10 para macOS**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.10/Disk-Map-1.10-macOS.dmg)
 
 [💬 Opiniones y preguntas](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 Informar de un error](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
 
@@ -10,7 +10,7 @@
 
 **Disk Map** es una aplicación nativa y gratuita para macOS que muestra con claridad qué ocupa espacio en tu Mac.
 
-Desarrollador: **Andrey Minenkov**. Versión actual: **1.9 (compilación 12)**.
+Desarrollador: **Andrey Minenkov**. Versión actual: **1.10 (compilación 13)**.
 
 ## Capturas de pantalla
 
@@ -37,13 +37,13 @@ Todo el análisis se realiza localmente en tu Mac. La información de tus archiv
 
 ## Descarga e instalación
 
-Abre **Releases** y descarga `Disk-Map-1.9-macOS.dmg`. Requiere macOS 13 o posterior y es compatible con Mac Apple Silicon e Intel.
+Abre **Releases** y descarga `Disk-Map-1.10-macOS.dmg`. Requiere macOS 13 o posterior y es compatible con Mac Apple Silicon e Intel.
 
 Abre el DMG y arrastra la aplicación a la carpeta Aplicaciones. Apple todavía no ha notarizado la aplicación. Si macOS bloquea el primer inicio, abre **Ajustes del Sistema → Privacidad y seguridad**, pulsa **Abrir igualmente** y confirma. [Instrucciones de Apple](https://support.apple.com/102445).
 
 El acceso total al disco solo es necesario para analizar en profundidad carpetas protegidas.
 
-SHA-256: `9c1dc8443ab0cea84a715cd27bcf85e60cd6eaee397936af2794f612c2443933`
+SHA-256: `12810677250d21687b527b5fdd10abf49fc27356d8b41078de5448bba70e7e90`
 
 La aplicación es gratuita. El código fuente no se publica en este repositorio.
 

@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · **Türkçe** · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-[**⬇️ macOS için Disk Map 1.9’u indir**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
+[**⬇️ macOS için Disk Map 1.10’u indir**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.10/Disk-Map-1.10-macOS.dmg)
 
 [💬 Geri bildirim ve sorular](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 Hata bildir](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
 
@@ -10,7 +10,7 @@
 
 **Disk Map**, Mac’inizde hangi dosyaların yer kapladığını açıkça gösteren ücretsiz ve yerel bir macOS uygulamasıdır.
 
-Geliştirici: **Andrey Minenkov**. Güncel sürüm: **1.9 (derleme 12)**.
+Geliştirici: **Andrey Minenkov**. Güncel sürüm: **1.10 (derleme 13)**.
 
 ## Ekran görüntüleri
 
@@ -37,13 +37,13 @@ Tüm analiz Mac’inizde yerel olarak yapılır. Dosya bilgileri hiçbir yere g�
 
 ## İndirme ve kurulum
 
-**Releases** bölümünü açın ve `Disk-Map-1.9-macOS.dmg` dosyasını indirin. macOS 13 veya daha yenisi gerekir; Apple Silicon ve Intel Mac’ler desteklenir.
+**Releases** bölümünü açın ve `Disk-Map-1.10-macOS.dmg` dosyasını indirin. macOS 13 veya daha yenisi gerekir; Apple Silicon ve Intel Mac’ler desteklenir.
 
 DMG dosyasını açıp uygulamayı Uygulamalar klasörüne sürükleyin. Uygulama henüz Apple tarafından noter onayından geçirilmemiştir. macOS ilk açılışı engellerse **Sistem Ayarları → Gizlilik ve Güvenlik** bölümünü açın, **Yine de Aç** düğmesine basın ve onaylayın. [Apple yönergeleri](https://support.apple.com/102445).
 
 Tam Disk Erişimi yalnızca korunan klasörlerin derin taraması için gereklidir.
 
-SHA-256: `9c1dc8443ab0cea84a715cd27bcf85e60cd6eaee397936af2794f612c2443933`
+SHA-256: `12810677250d21687b527b5fdd10abf49fc27356d8b41078de5448bba70e7e90`
 
 Uygulama ücretsizdir. Kaynak kodu bu depoda yayımlanmaz.
 

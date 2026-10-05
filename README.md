@@ -2,7 +2,7 @@
 
 [English](README.md) · [Русский](docs/README.ru.md) · [Deutsch](docs/README.de.md) · [Français](docs/README.fr.md) · [Español](docs/README.es.md) · [Italiano](docs/README.it.md) · [Português](docs/README.pt.md) · [Polski](docs/README.pl.md) · [Türkçe](docs/README.tr.md) · [简体中文](docs/README.zh-Hans.md) · [繁體中文](docs/README.zh-Hant.md) · [日本語](docs/README.ja.md) · [한국어](docs/README.ko.md)
 
-[**⬇️ Download Disk Map 1.9 for macOS**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
+[**⬇️ Download Disk Map 1.10 for macOS**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.10/Disk-Map-1.10-macOS.dmg)
 
 [💬 Feedback and questions](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 Report a bug](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
 
@@ -12,7 +12,7 @@
 
 Developer: **Andrey Minenkov**
 
-Current version: **1.9 (build 12)**
+Current version: **1.10 (build 13)**
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ All analysis runs locally on your Mac. File information is never sent anywhere.
 
 ## Download
 
-Open **Releases** on this page and download `Disk-Map-1.9-macOS.dmg` from the latest release.
+Open **Releases** on this page and download `Disk-Map-1.10-macOS.dmg` from the latest release.
 
 Requirements:
 
@@ -65,10 +65,10 @@ Full Disk Access is optional and is only needed for deep analysis of protected f
 
 ## Verify the download
 
-SHA-256 for `Disk-Map-1.9-macOS.dmg`:
+SHA-256 for `Disk-Map-1.10-macOS.dmg`:
 
 ```text
-9c1dc8443ab0cea84a715cd27bcf85e60cd6eaee397936af2794f612c2443933
+12810677250d21687b527b5fdd10abf49fc27356d8b41078de5448bba70e7e90
 ```
 
 The application is free to use. Its source code is not published in this repository.

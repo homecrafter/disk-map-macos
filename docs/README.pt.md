@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · **Português** · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-[**⬇️ Baixar Disk Map 1.9 para macOS**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
+[**⬇️ Baixar Disk Map 1.10 para macOS**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.10/Disk-Map-1.10-macOS.dmg)
 
 [💬 Comentários e perguntas](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 Relatar um problema](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
 
@@ -10,7 +10,7 @@
 
 **Disk Map** é um aplicativo nativo e gratuito para macOS que mostra claramente o que ocupa espaço no Mac.
 
-Desenvolvedor: **Andrey Minenkov**. Versão atual: **1.9 (compilação 12)**.
+Desenvolvedor: **Andrey Minenkov**. Versão atual: **1.10 (compilação 13)**.
 
 ## Capturas de tela
 
@@ -37,13 +37,13 @@ Toda a análise é feita localmente no Mac. As informações dos arquivos não s
 
 ## Download e instalação
 
-Abra **Releases** e baixe `Disk-Map-1.9-macOS.dmg`. Requer macOS 13 ou posterior e funciona em Macs Apple Silicon e Intel.
+Abra **Releases** e baixe `Disk-Map-1.10-macOS.dmg`. Requer macOS 13 ou posterior e funciona em Macs Apple Silicon e Intel.
 
 Abra o DMG e arraste o aplicativo para a pasta Aplicativos. O aplicativo ainda não foi notarizado pela Apple. Se o macOS bloquear a primeira abertura, acesse **Ajustes do Sistema → Privacidade e Segurança**, clique em **Abrir Mesmo Assim** e confirme. [Instruções da Apple](https://support.apple.com/102445).
 
 O Acesso Total ao Disco só é necessário para a análise profunda de pastas protegidas.
 
-SHA-256: `9c1dc8443ab0cea84a715cd27bcf85e60cd6eaee397936af2794f612c2443933`
+SHA-256: `12810677250d21687b527b5fdd10abf49fc27356d8b41078de5448bba70e7e90`
 
 O aplicativo é gratuito. O código-fonte não é publicado neste repositório.
 

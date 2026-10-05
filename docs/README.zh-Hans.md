@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · **简体中文** · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-[**⬇️ 下载 macOS 版 Disk Map 1.9**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
+[**⬇️ 下载 macOS 版 Disk Map 1.10**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.10/Disk-Map-1.10-macOS.dmg)
 
 [💬 反馈与问题](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 报告错误](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
 
@@ -10,7 +10,7 @@
 
 **Disk Map** 是一款免费的原生 macOS 应用，可直观显示 Mac 的存储空间被哪些文件占用。
 
-开发者：**Andrey Minenkov**。当前版本：**1.9（构建 12）**。
+开发者：**Andrey Minenkov**。当前版本：**1.10（构建 13）**。
 
 ## 屏幕截图
 
@@ -37,13 +37,13 @@
 
 ## 下载与安装
 
-打开 **Releases**，下载 `Disk-Map-1.9-macOS.dmg`。需要 macOS 13 或更高版本，支持 Apple 芯片和 Intel Mac。
+打开 **Releases**，下载 `Disk-Map-1.10-macOS.dmg`。需要 macOS 13 或更高版本，支持 Apple 芯片和 Intel Mac。
 
 打开 DMG，然后将应用拖到“应用程序”文件夹。应用目前尚未经过 Apple 公证。如果 macOS 阻止首次启动，请打开 **系统设置 → 隐私与安全性**，点按 **仍要打开** 并确认。[Apple 说明](https://support.apple.com/102445)。
 
 只有在深度扫描受保护的文件夹时才需要“完全磁盘访问权限”。
 
-SHA-256：`9c1dc8443ab0cea84a715cd27bcf85e60cd6eaee397936af2794f612c2443933`
+SHA-256：`12810677250d21687b527b5fdd10abf49fc27356d8b41078de5448bba70e7e90`
 
 本应用可免费使用。此仓库不公开源代码。
 

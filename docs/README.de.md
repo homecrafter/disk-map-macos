@@ -2,7 +2,7 @@
 
 [English](../README.md) · [Русский](README.ru.md) · **Deutsch** · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-[**⬇️ Disk Map 1.9 für macOS herunterladen**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
+[**⬇️ Disk Map 1.10 für macOS herunterladen**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.10/Disk-Map-1.10-macOS.dmg)
 
 [💬 Feedback und Fragen](https://github.com/homecrafter/disk-map-macos/discussions/new?category=general) · [🐞 Fehler melden](https://github.com/homecrafter/disk-map-macos/issues/new?template=bug_report.yml)
 
@@ -10,7 +10,7 @@
 
 **Disk Map** ist ein kostenloses, natives macOS-Programm, das übersichtlich zeigt, was Speicherplatz auf Ihrem Mac belegt.
 
-Entwickler: **Andrey Minenkov**. Aktuelle Version: **1.9 (Build 12)**.
+Entwickler: **Andrey Minenkov**. Aktuelle Version: **1.10 (Build 13)**.
 
 ## Bildschirmfotos
 
@@ -37,13 +37,13 @@ Die gesamte Analyse erfolgt lokal auf Ihrem Mac. Dateiinformationen werden nicht
 
 ## Download und Installation
 
-Öffnen Sie **Releases** und laden Sie `Disk-Map-1.9-macOS.dmg` herunter. Erforderlich ist macOS 13 oder neuer; Apple Silicon und Intel werden unterstützt.
+Öffnen Sie **Releases** und laden Sie `Disk-Map-1.10-macOS.dmg` herunter. Erforderlich ist macOS 13 oder neuer; Apple Silicon und Intel werden unterstützt.
 
 Öffnen Sie die DMG-Datei und ziehen Sie die App in den Ordner „Programme“. Die App ist noch nicht von Apple notarisiert. Falls macOS den ersten Start blockiert, öffnen Sie **Systemeinstellungen → Datenschutz & Sicherheit**, klicken Sie auf **Dennoch öffnen** und bestätigen Sie den Start. [Apple-Anleitung](https://support.apple.com/102445).
 
 Vollzugriff auf die Festplatte wird nur für die tiefe Analyse geschützter Ordner benötigt.
 
-SHA-256: `9c1dc8443ab0cea84a715cd27bcf85e60cd6eaee397936af2794f612c2443933`
+SHA-256: `12810677250d21687b527b5fdd10abf49fc27356d8b41078de5448bba70e7e90`
 
 Die App kann kostenlos verwendet werden. Der Quellcode wird in diesem Repository nicht veröffentlicht.
 
