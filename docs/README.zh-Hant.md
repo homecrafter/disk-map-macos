@@ -12,6 +12,15 @@
 
 開發者：**Andrey Minenkov**。目前版本：**1.9（組建 12）**。
 
+## 螢幕截圖
+
+<p align="center"><img src="../screenshots/disk-map-overview-en.png" alt="Disk Map storage overview" width="920"></p>
+
+<p align="center">
+  <img src="../screenshots/language-menu.png" alt="Disk Map language menu" width="430">
+  <img src="../screenshots/about-disk-map.png" alt="About Disk Map" width="300">
+</p>
+
 ## 功能
 
 - 掃描資料夾、磁碟、使用者主目錄和外接儲存裝置；

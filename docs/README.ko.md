@@ -12,6 +12,15 @@
 
 개발자: **Andrey Minenkov**. 현재 버전: **1.9(빌드 12)**.
 
+## 스크린샷
+
+<p align="center"><img src="../screenshots/disk-map-overview-en.png" alt="Disk Map storage overview" width="920"></p>
+
+<p align="center">
+  <img src="../screenshots/language-menu.png" alt="Disk Map language menu" width="430">
+  <img src="../screenshots/about-disk-map.png" alt="About Disk Map" width="300">
+</p>
+
 ## 기능
 
 - 폴더, 디스크, 사용자 홈 폴더 및 외장 드라이브 스캔;

@@ -12,6 +12,15 @@
 
 Desenvolvedor: **Andrey Minenkov**. Versão atual: **1.9 (compilação 12)**.
 
+## Capturas de tela
+
+<p align="center"><img src="../screenshots/disk-map-overview-en.png" alt="Disk Map storage overview" width="920"></p>
+
+<p align="center">
+  <img src="../screenshots/language-menu.png" alt="Disk Map language menu" width="430">
+  <img src="../screenshots/about-disk-map.png" alt="About Disk Map" width="300">
+</p>
+
 ## Recursos
 
 - análise de pastas, discos, pastas de usuário e unidades externas;

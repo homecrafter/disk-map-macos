@@ -12,6 +12,15 @@
 
 开发者：**Andrey Minenkov**。当前版本：**1.9（构建 12）**。
 
+## 屏幕截图
+
+<p align="center"><img src="../screenshots/disk-map-overview-en.png" alt="Disk Map storage overview" width="920"></p>
+
+<p align="center">
+  <img src="../screenshots/language-menu.png" alt="Disk Map language menu" width="430">
+  <img src="../screenshots/about-disk-map.png" alt="About Disk Map" width="300">
+</p>
+
 ## 功能
 
 - 扫描文件夹、磁盘、用户主目录和外置存储设备；

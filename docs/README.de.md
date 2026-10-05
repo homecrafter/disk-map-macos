@@ -12,6 +12,15 @@
 
 Entwickler: **Andrey Minenkov**. Aktuelle Version: **1.9 (Build 12)**.
 
+## Bildschirmfotos
+
+<p align="center"><img src="../screenshots/disk-map-overview-en.png" alt="Disk Map storage overview" width="920"></p>
+
+<p align="center">
+  <img src="../screenshots/language-menu.png" alt="Disk Map language menu" width="430">
+  <img src="../screenshots/about-disk-map.png" alt="About Disk Map" width="300">
+</p>
+
 ## Funktionen
 
 - Ordner, Laufwerke, Benutzerordner und externe Datenträger analysieren;

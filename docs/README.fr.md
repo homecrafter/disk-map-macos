@@ -12,6 +12,15 @@
 
 Développeur : **Andrey Minenkov**. Version actuelle : **1.9 (build 12)**.
 
+## Captures d’écran
+
+<p align="center"><img src="../screenshots/disk-map-overview-en.png" alt="Disk Map storage overview" width="920"></p>
+
+<p align="center">
+  <img src="../screenshots/language-menu.png" alt="Disk Map language menu" width="430">
+  <img src="../screenshots/about-disk-map.png" alt="About Disk Map" width="300">
+</p>
+
 ## Fonctionnalités
 
 - analyser un dossier, un disque, un dossier utilisateur ou un support externe ;

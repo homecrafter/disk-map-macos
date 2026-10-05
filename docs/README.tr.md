@@ -12,6 +12,15 @@
 
 Geliştirici: **Andrey Minenkov**. Güncel sürüm: **1.9 (derleme 12)**.
 
+## Ekran görüntüleri
+
+<p align="center"><img src="../screenshots/disk-map-overview-en.png" alt="Disk Map storage overview" width="920"></p>
+
+<p align="center">
+  <img src="../screenshots/language-menu.png" alt="Disk Map language menu" width="430">
+  <img src="../screenshots/about-disk-map.png" alt="About Disk Map" width="300">
+</p>
+
 ## Özellikler
 
 - klasörleri, diskleri, kullanıcı klasörlerini ve harici sürücüleri tarama;
