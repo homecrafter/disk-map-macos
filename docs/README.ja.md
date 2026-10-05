@@ -1,8 +1,8 @@
 # macOS 用 Disk Map
 
 [English](../README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · **日本語** · [한국어](README.ko.md)
-[**⬇️ macOS 用 Disk Map 1.9 をダウンロード**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
 
+[**⬇️ macOS 用 Disk Map 1.9 をダウンロード**](https://github.com/homecrafter/disk-map-macos/releases/download/v1.9/Disk-Map-1.9-macOS.dmg)
 
 <img src="../assets/AppIcon.png" alt="Disk Map app icon" width="160">
 
