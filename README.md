@@ -50,7 +50,7 @@ Requirements:
 ## Installation
 
 1. Open the downloaded DMG.
-2. Drag **Карта диска** to the **Applications** folder.
+2. Drag the app to the **Applications** folder.
 3. Launch the app from **Applications**.
 
 The app is not yet notarized by Apple. If macOS blocks the first launch:
@@ -71,7 +71,7 @@ SHA-256 for `Disk-Map-1.10-macOS.dmg`:
 12810677250d21687b527b5fdd10abf49fc27356d8b41078de5448bba70e7e90
 ```
 
-The application is free to use. Its source code is not published in this repository.
+The application is free to use under the terms of the [license](LICENSE). Its source code is not published in this repository.
 
 ---
 

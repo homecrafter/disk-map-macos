@@ -1,12 +1,12 @@
 # Changelog
 
-## 1.10 — build 13
+## 1.10 (build 13) — 2026-10-05
 
 - Changing the interface language now happens instantly.
 - The completed scan, current folder, selection, and navigation history remain available after a language change.
 - File sizes immediately adopt the selected language’s number and unit formatting.
 
-## 1.9 — build 12
+## 1.9 (build 12) — 2026-10-05
 
 First public release.
 
